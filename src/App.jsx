@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route} from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.js';
 import Layout from "./pages/Layout.jsx";
@@ -9,13 +9,13 @@ import Location from "./pages/Location.jsx";
 import Inquire from "./pages/Inquire.jsx";
 import NotFound from "./pages/NotFound.jsx";
 
-function App() {
- 
-
+function App() 
+{
   return (
     <>
       <BrowserRouter>
         <Routes>
+          
           <Route path="/" element={<Layout />}>
           <Route index="home" element={<Home />}/>
           <Route path="gallery" element={<Gallery />}/>

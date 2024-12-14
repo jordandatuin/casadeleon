@@ -22,7 +22,7 @@ function Home()
             <div className="d-flex justify-content-center align-items-center z-3 position-absolute">
               <div className="card home_text_background">
                 <div className="card-body ">
-                  <h1 class="home-title text-center txt_welcome">
+                  <h1 className="home-title text-center txt_welcome">
                   <span>Welcome To Casa De Leon.</span>
                   <span>"Your home away from home."</span>
                   </h1>
