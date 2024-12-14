@@ -10,8 +10,6 @@ This is a React-based web application for Casa De Leon, a hospitality service pr
 - [Dependencies](#dependencies)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
